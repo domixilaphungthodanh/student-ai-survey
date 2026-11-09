@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Q01",
+    "question": "Bạn đang là sinh viên năm mấy?",
+    "type": "single",
+    "options": "Năm nhất|Năm hai|Năm ba|Năm tư trở lên"
+  },
+  {
+    "id": "Q02",
+    "question": "Bạn đang học nhóm ngành nào?",
+    "type": "single",
+    "options": "Kỹ thuật - công nghệ|Kinh tế - quản trị|Xã hội - nhân văn|Sức khoẻ|Khác"
+  },
+  {
+    "id": "Q03",
+    "question": "Bạn đã sử dụng công cụ AI cho học tập trong 30 ngày qua chưa?",
+    "type": "single",
+    "options": "Có|Không"
+  },
+  {
+    "id": "Q04",
+    "question": "Bạn sử dụng AI cho học tập với tần suất nào trong 30 ngày qua?",
+    "type": "single",
+    "options": "Không sử dụng|Dưới 1 ngày/tuần|1–2 ngày/tuần|3–4 ngày/tuần|5–7 ngày/tuần"
+  },
+  {
+    "id": "Q05",
+    "question": "Bạn đã dùng những công cụ AI nào cho học tập trong 30 ngày qua?",
+    "type": "multi",
+    "options": "ChatGPT|Gemini|Microsoft Copilot|Claude|Khác|Không sử dụng"
+  },
+  {
+    "id": "Q06",
+    "question": "Bạn dùng AI cho những hoạt động nào trong 30 ngày qua?",
+    "type": "multi",
+    "options": "Giải thích kiến thức|Tóm tắt tài liệu|Luyện ngoại ngữ|Lập trình|Lên ý tưởng|Soạn nội dung|Khác|Không sử dụng"
+  },
+  {
+    "id": "Q07",
+    "question": "Bạn thường dùng AI ở giai đoạn nào của bài tập?",
+    "type": "single",
+    "options": "Trước khi tự làm|Sau khi tự làm|Trong suốt quá trình|Không sử dụng"
+  },
+  {
+    "id": "Q08",
+    "question": "Bạn có kiểm tra lại câu trả lời AI bằng tài liệu hoặc nguồn khác không?",
+    "type": "single",
+    "options": "Không bao giờ|Hiếm khi|Thỉnh thoảng|Thường xuyên|Luôn luôn|Không áp dụng"
+  },
+  {
+    "id": "Q09",
+    "question": "Bạn đã gặp thông tin AI sai hoặc không có nguồn kiểm chứng chưa?",
+    "type": "single",
+    "options": "Có|Không|Không chắc|Không áp dụng"
+  },
+  {
+    "id": "Q10",
+    "question": "Bạn đánh giá độ tin cậy chung của câu trả lời AI thế nào?",
+    "type": "single",
+    "options": "Rất thấp|Thấp|Trung bình|Cao|Rất cao|Không áp dụng"
+  },
+  {
+    "id": "Q11",
+    "question": "AI giúp tôi hiểu rõ hơn kiến thức khó.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q12",
+    "question": "AI giúp tôi tiết kiệm thời gian học tập.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q13",
+    "question": "AI giúp tôi tìm ra nhiều cách giải quyết bài tập.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q14",
+    "question": "Tôi có thể tự giải thích lại nội dung sau khi dùng AI.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q15",
+    "question": "Tôi lo mình phụ thuộc AI khi làm bài tập.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q16",
+    "question": "Tôi gặp khó khăn khi đánh giá câu trả lời AI đúng hay sai.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q17",
+    "question": "Tôi biết khi nào cần ghi nhận việc sử dụng AI trong bài học.",
+    "type": "likert",
+    "options": "1|2|3|4|5|Không áp dụng"
+  },
+  {
+    "id": "Q18",
+    "question": "Bạn gặp những khó khăn nào khi dùng AI cho học tập?",
+    "type": "multi",
+    "options": "Thông tin sai|Thiếu nguồn|Khó đặt câu hỏi|Chi phí|Quy định chưa rõ|Lo phụ thuộc|Không gặp khó khăn|Không áp dụng"
+  },
+  {
+    "id": "Q19",
+    "question": "Bạn đã được hướng dẫn về sử dụng AI trong học tập chưa?",
+    "type": "single",
+    "options": "Có|Không|Không nhớ"
+  },
+  {
+    "id": "Q20",
+    "question": "Bạn muốn được hướng dẫn thêm nội dung gì?",
+    "type": "multi",
+    "options": "Kiểm chứng thông tin|Đặt câu hỏi hiệu quả|Ghi nhận sử dụng AI|Bảo vệ dữ liệu cá nhân|Dùng AI theo môn học|Không có nhu cầu"
+  },
+  {
+    "id": "Q21",
+    "question": "Bạn dự định sử dụng AI trong học tập trong 3 tháng tới không?",
+    "type": "single",
+    "options": "Có|Không|Chưa quyết định"
+  },
+  {
+    "id": "Q22",
+    "question": "Bạn có đề xuất gì để sử dụng AI hiệu quả và có trách nhiệm?",
+    "type": "text",
+    "options": ""
+  }
+]
